@@ -8,3 +8,5 @@
 - Handles the user request and acts as an interface between Model and View
 
 4. Routing in MVC  
+
+5. Data annotation - attributes
