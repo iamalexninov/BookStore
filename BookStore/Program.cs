@@ -13,6 +13,7 @@ namespace BookStore
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<BookStoreDbContext>(options => 
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+            //builder.Services.
 
             var app = builder.Build();
 
