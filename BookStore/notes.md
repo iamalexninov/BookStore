@@ -9,4 +9,6 @@
 
 4. Routing in MVC  
 
-5. Data annotation - attributes
+5. Data annotation - attributes or using Fluent API
+
+6. 
