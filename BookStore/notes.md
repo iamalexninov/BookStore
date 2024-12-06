@@ -11,11 +11,6 @@
 
 5. Data annotation - attributes or using Fluent API
 
+6. Tag Helpers - helpers, rather than having a href tag
 
-
-
-Check: 
-
-- MVC
-- IActionResult
-- 
+Check:  

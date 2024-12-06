@@ -8,7 +8,8 @@ namespace BookStore.Models
         public int Id { get; set; }
 
         [Required]
-        public int Name { get; set; }
+        [MaxLength(255)]
+        public string Name { get; set; }
         public int DisplayOrder { get; set; }
     }
 }
